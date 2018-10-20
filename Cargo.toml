@@ -1,0 +1,10 @@
+[package]
+name = "digidist"
+version = "0.1.0"
+authors = ["Olexander Yermakov <mannavard1611@gmail.com>"]
+
+[dependencies]
+vst = "0.0.2"
+
+[lib]
+crate-type = ["dylib"]
